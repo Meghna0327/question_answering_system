@@ -1,0 +1,3 @@
+google/flan-t5-base - https://huggingface.co/google/flan-t5-base
+declare-lab/flan-alpaca-base - https://huggingface.co/declare-lab/flan-alpaca-base
+allenai/unifiedqa-t5-base - https://huggingface.co/allenai/unifiedqa-t5-base
